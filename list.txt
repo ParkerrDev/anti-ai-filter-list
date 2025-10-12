@@ -1,8 +1,24 @@
-! Block AI Websites
-||chatgpt.com
-||claude.ai
+! GitHub Copilot
+github.com##.Header-module__header--tjtIT
+github.com##.Layout-module__mainColumn--OFMVb.Layout-module__columnLeft--jY2aC
+github.com##.ConversationListV2-module__container--DfLLE
+github.com##.CopilotNavigation-module__quicklinks--y91ru
 
-! Oct 12, 2025 https://github.com
-github.com##.copilotImmersive.page-responsive.env-production.logged-in
-github.com##.hide-md.hide-sm.AppHeader-CopilotChat
-github.com##.flash-error.js-notice.flash-full.flash
+!ChatGPT
+||chat.openai.com
+||chatgpt.com
+chatgpt.com##html
+
+!Claude AI
+||claude.ai
+claude.ai##html
+
+!Meta AI
+||meta.ai
+meta.ai##html
+
+!V0
+v0.dev##html
+v0.app##html
+||v0.dev
+||v0.app
