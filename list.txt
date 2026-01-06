@@ -1,8 +1,5 @@
 ! GitHub Copilot
-github.com##.Header-module__header--tjtIT
-github.com##.Layout-module__mainColumn--OFMVb.Layout-module__columnLeft--jY2aC
-github.com##.ConversationListV2-module__container--DfLLE
-github.com##.CopilotNavigation-module__quicklinks--y91ru
+github.com##.copilotImmersive
 
 !ChatGPT
 ||chat.openai.com
